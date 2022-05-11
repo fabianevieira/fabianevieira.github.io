@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(180, 212, 255);
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+}
+
+.header-container h1,
+nav {
+    padding: 0 20px;
+}
+
+.header-container nav a {
+    padding: 10px;
+}
