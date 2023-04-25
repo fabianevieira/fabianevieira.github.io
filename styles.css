@@ -1,0 +1,32 @@
+body{
+    font-family: monospace;
+    background: url("./background-tech.jpg") no-repeat;
+}
+
+.header-container{
+    display: flex;
+}
+
+#title-container{
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.navigation-container{
+    display: flex;
+    flex: 3;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+
+.navigation-container p {
+    padding: 0 20px;
+}
+
+.body-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
