@@ -1,6 +1,6 @@
 body{
     font-family: monospace;
-    background: url("./background-tech.jpg") no-repeat;
+    background: url("./background-tech.jpg");
 }
 
 .header-container{
